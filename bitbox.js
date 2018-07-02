@@ -7,5 +7,5 @@ exports.config = {
       username: "",
       password: ""
     }
-  }
+  } 
 };
